@@ -13,7 +13,7 @@ end
 ITEM.hud = Material("vgui/ttt/perks/hud_asc_ttt2.png")
 ITEM.EquipMenuData = {
   type = "item_passive",
-  name = "A Second Chance",
+  name = "A Second-ish Chance",
   desc = "Life for a second time but only with a given Chance. \nYour Chance will change per kill.\nIt also works if the round should end.",
 }
 ITEM.material = "vgui/ttt/icon_asc"

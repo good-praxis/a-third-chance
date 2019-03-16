@@ -1,0 +1,11 @@
+{
+	"title"		:	"A third chance",
+	"type"		:	"weapon",
+    "tags"		:	[ "fun" ],
+    "ignore"    : 
+    [
+        ".git",
+        ".git/*"
+    ]
+    
+}
